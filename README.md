@@ -4,7 +4,7 @@
 ### Hi there 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Rammya+Dharshini+👧🏻;RPA+Software+Developer+💻;+Automation+Engineer+🤖;+Loves+To+Build+Projects+✨;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=I'm+Rammya+Dharshini+👧🏻;RPA+Software+Developer+💻;+Automation+Engineer+🤖;+Loves+To+Build+Projects+✨;">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -14,8 +14,6 @@
 ![](https://komarev.com/ghpvc/?username=rammya29&color=brightgreen)
 
 <img width="20%" src="https://profile-counter.glitch.me/{Rammya-Dharshini}/count.svg" /> 
-
-<details><summary>Recent Activity</summary>
 
 <details><summary>Contribution Graph</summary>
 <p align="left">
